@@ -1,13 +1,12 @@
 Hxdcoreext
 ==========
 
-Introduction goes here.
+1,将development中的数据转换成fixtures数据
+rake extract_fixtures
 
 
-Example
 =======
 
-Example goes here.
 
 
-Copyright (c) 2011 [name of plugin creator], released under the MIT license
+Copyright (c) 2011 [hexudong08@gmail.com], released under the MIT license
