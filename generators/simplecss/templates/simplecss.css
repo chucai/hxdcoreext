@@ -33,3 +33,19 @@ a.simplecss-navigate-current span{
 .simplecss-navigate a:hover span {
   background:url("../images/navigate.jpg") right top no-repeat;
 }
+#simplecss-header{
+  margin: 0;
+  padding: 0;
+}
+
+a.simplecss-navigate-right{
+  font-size: 14px;
+  float: right;
+  background-image: none;
+  text-decoration: underline;
+}
+a.simplecss-navigate-right:hover {
+  background-image: none;
+  color: #666666;
+  text-decoration: none;
+}
