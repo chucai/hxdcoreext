@@ -20,11 +20,11 @@
   height: 25px;
   padding-right: 15px;
 }
-.simplecss-navigate-current{
+a.simplecss-navigate-current{
   background: url("../images/navigate.jpg") no-repeat scroll left top transparent;
   color: #FFFFFF;
 }
-.simplecss-navigate-current span{
+a.simplecss-navigate-current span{
   background: url("../images/navigate.jpg") no-repeat scroll right top transparent;
 }
 .simplecss-navigate a:hover {
