@@ -24,3 +24,12 @@
   background: url("../images/navigate.jpg") no-repeat scroll left top transparent;
   color: #FFFFFF;
 }
+.simplecss-navigate-current span{
+  background: url("../images/navigate.jpg") no-repeat scroll right top transparent;
+}
+.simplecss-navigate a:hover {
+  background:url("../images/navigate.jpg") left top no-repeat; color:#FFF;
+}
+.simplecss-navigate a:hover span {
+  background:url("../images/navigate.jpg") right top no-repeat;
+}
