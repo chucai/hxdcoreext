@@ -1,0 +1,26 @@
+.simplecss-navigate{
+  border-bottom: 3px solid #579CC6;
+  font-weight: bold;
+  margin: 0 auto;
+  text-align: center;
+}
+.simplecss-navigate a {
+  background: url("../images/navigate.jpg") no-repeat scroll left bottom transparent;
+  color: #666666;
+  cursor: pointer;
+  display: inline-block;
+  height: 25px;
+  padding-left: 15px;
+  text-decoration: none;
+}
+.simplecss-navigate a span{
+  background: url("../images/navigate.jpg") no-repeat scroll right bottom transparent;
+  display: inline-block;
+  line-height: 25px;
+  height: 25px;
+  padding-right: 15px;
+}
+.simplecss-navigate-current{
+  background: url("../images/navigate.jpg") no-repeat scroll left top transparent;
+  color: #FFFFFF;
+}

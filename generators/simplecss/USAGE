@@ -1,0 +1,6 @@
+create a simple templates:
+include 
+1, navigate
+
+how to use:
+ruby script/generator simplecss

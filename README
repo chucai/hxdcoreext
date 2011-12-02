@@ -4,6 +4,9 @@ Hxdcoreext
 1,将development中的数据转换成fixtures数据
 rake extract_fixtures
 
+2,active_record ext method
+
+model.errors_full_messages #display errors message with string, with ','
 
 =======
 
